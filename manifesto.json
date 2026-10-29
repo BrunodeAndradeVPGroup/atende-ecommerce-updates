@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "format": "vp-encrypted-updates-v1",
+  "signing_pubkey_sha256": "df3ac167845a38006d49cbafc11bd94b4f735bfac6a4fdc84f657969ee9c974b",
+  "plugins": {
+    "assistente-ecommerce-junior": {
+      "free": {
+        "version": "1.6.9",
+        "portable_build_id": "778df41f5470e6f0",
+        "file": "assistente-ecommerce-junior-1.6.9-free.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.9-free.zip.vpenc",
+        "sha256_cipher": "cbd55bba87b1d8a78b79d0b7c595878b0b450bda67b40090a5ec9321b6b6f327",
+        "size_cipher": 2602717,
+        "aad": "assistente-ecommerce-junior|free|1.6.9|778df41f5470e6f0"
+      },
+      "plus": {
+        "version": "1.6.9",
+        "portable_build_id": "778df41f5470e6f0",
+        "file": "assistente-ecommerce-junior-1.6.9-plus.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.9-plus.zip.vpenc",
+        "sha256_cipher": "d1bf61a06e93fc352d952ca12fade7f89c6c2d568a45ca50a59890e22eb225fd",
+        "size_cipher": 2599494,
+        "aad": "assistente-ecommerce-junior|plus|1.6.9|778df41f5470e6f0"
+      }
+    },
+    "atendente-gpt": {
+      "free": {
+        "version": "1.7.9",
+        "portable_build_id": "4c7a2b516ae59469",
+        "file": "atendente-gpt-1.7.9-free.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.9-free.zip.vpenc",
+        "sha256_cipher": "b16a2d5e5bcab1158b8f07dc6d78ec71d5d4ecee99637bc70f23e35bd834e491",
+        "size_cipher": 62388,
+        "aad": "atendente-gpt|free|1.7.9|4c7a2b516ae59469"
+      },
+      "plus": {
+        "version": "1.7.9",
+        "portable_build_id": "4c7a2b516ae59469",
+        "file": "atendente-gpt-1.7.9-plus.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.9-plus.zip.vpenc",
+        "sha256_cipher": "963a71eb17ea730ac0259c0bcbc19e9268c1424514dc24b0a376ff33f4e87ebd",
+        "size_cipher": 59152,
+        "aad": "atendente-gpt|plus|1.7.9|4c7a2b516ae59469"
+      }
+    }
+  },
+  "signature_b64": "DpNdKHf42bGsqUe3bSpWGHXziTA65Y2ZaeW1aAGxBwhpJTZDk+FECMMwPNu0l1Ch0u9gkKaQR99aWpKFf9bUBQ=="
+}
